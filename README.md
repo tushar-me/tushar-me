@@ -1,11 +1,11 @@
 ### Hi there 👋, I'm Tushar Imran
-I am a professional Software Engineer. I am proficient in multiple programming languages and frameworks, such as HTML, CSS, JavaScript, PHP, Laravel, and Vue. I am also proficient in Database design, deployment, and management. And I can build complete web applications from scratch, from the user interface to server-side architecture.
 
-Skills: HTML / CSS / JS / PHP / LARAVEL / WORDPRESS
+# Web Developer
+Skills: HTML / CSS / JS / PHP / LARAVEL / WordPress
 
 - 🔭 I’m currently working on ultraDevs 
 - 🌱 I’m currently learning Laravel 
-- 👯 I’m looking to collaborate on github 
+- 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Development 
 
 
