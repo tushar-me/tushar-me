@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.vectorstock.com/i/preview-1x/09/46/web-development-coding-and-programming-responsive-vector-46870946.jpg)](https://tusharimran.site)
+[![MasterHead](https://www.canva.com/design/DAFnZlb8T7E/84vhhp9dLa2DHsFyP3GdlQ/edit?utm_content=DAFnZlb8T7E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://tusharimran.site)
 <h1 align="center">Hi 👋, I'm Tushar Imran</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
