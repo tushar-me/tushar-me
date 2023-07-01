@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tushar Imran</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-(img align="right" alt="Coding" width="400" src="https://scontent.fdac27-2.fna.fbcdn.net/v/t39.30808-6/357723719_285952413844283_3175872255644069197_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=e3f864&_nc_ohc=TJZDQazX4JsAX8efzRQ&_nc_pt=1&_nc_ht=scontent.fdac27-2.fna&oh=00_AfBuzhrm6-fH5FiVXSqfVdHc10HE7wGwes_YC--ZwpMmAA&oe=64A56DE5")
+<img align="right" alt="Coding" width="400" src="https://scontent.fdac27-2.fna.fbcdn.net/v/t39.30808-6/357723719_285952413844283_3175872255644069197_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=e3f864&_nc_ohc=TJZDQazX4JsAX8efzRQ&_nc_pt=1&_nc_ht=scontent.fdac27-2.fna&oh=00_AfBuzhrm6-fH5FiVXSqfVdHc10HE7wGwes_YC--ZwpMmAA&oe=64A56DE5"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar-me&label=Profile%20views&color=0e75b6&style=flat" alt="tushar-me" /> </p>
 
