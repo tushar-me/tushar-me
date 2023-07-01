@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://drive.google.com/file/d/1ZCazI-UW2DdvgOCQW8cajjm_hBKz2UJn/view?usp=sharing))](https://rishavchanda.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://drive.google.com/file/d/1ZCazI-UW2DdvgOCQW8cajjm_hBKz2UJn/view?usp=sharing))](https://tusharimran.site)
 <h1 align="center">Hi 👋, I'm Tushar Imran</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
