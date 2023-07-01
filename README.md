@@ -1,1 +1,1 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+![](https://drive.google.com/file/d/1ZCazI-UW2DdvgOCQW8cajjm_hBKz2UJn/view?usp=sharing)
