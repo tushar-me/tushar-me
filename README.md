@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAFnZlb8T7E/84vhhp9dLa2DHsFyP3GdlQ/edit?utm_content=DAFnZlb8T7E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://tusharimran.site)
+[![MasterHead](https://drive.google.com/file/d/1ZCazI-UW2DdvgOCQW8cajjm_hBKz2UJn/view?usp=sharing)](https://tusharimran.site)
 <h1 align="center">Hi 👋, I'm Tushar Imran</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
