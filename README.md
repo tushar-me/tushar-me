@@ -1,4 +1,4 @@
-[![MasterHead](https://scontent.fdac27-2.fna.fbcdn.net/v/t39.30808-6/357723277_285950673844457_7389642296221236323_n.png?stp=dst-png_p480x480&_nc_cat=106&ccb=1-7&_nc_sid=e3f864&_nc_ohc=KOtedUJ8cLYAX-SK3zQ&_nc_pt=1&_nc_ht=scontent.fdac27-2.fna&oh=00_AfDWcnYdVY8B2bPFggxH5gmSf2__QdPBgb-7IOpy5d3xhQ&oe=64A4A30E)](https://tusharimran.site)
+[![MasterHead](https://scontent.fdac27-2.fna.fbcdn.net/v/t39.30808-6/357723277_285950673844457_7389642296221236323_n.png?stp=dst-png_p480x480&_nc_cat=106&ccb=1-7&_nc_sid=e3f864&_nc_ohc=KOtedUJ8cLYAX-SK3zQ&_nc_pt=1&_nc_ht=scontent.fdac27-2.fna&oh=00_AfDWcnYdVY8B2bPFggxH5gmSf2__QdPBgb-7IOpy5d3xhQ&oe=64A4A30E](https://scontent.fdac27-2.fna.fbcdn.net/v/t39.30808-6/358400563_288380853601439_8178766034949721275_n.png?stp=dst-jpg&_nc_cat=100&ccb=1-7&_nc_sid=ab6a21&_nc_ohc=Wzs0mOGg_rgAX9-tsMU&_nc_pt=1&_nc_ht=scontent.fdac27-2.fna&oh=00_AfBieGPza1o1VLuRyaVPKNM1HRKupe4aBuALmYMA1N0NHA&oe=64A9D2CF))](https://tusharimran.site)
 <h1 align="center">Hi 👋, I'm Tushar Imran</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
