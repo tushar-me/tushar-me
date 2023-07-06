@@ -22,7 +22,6 @@
 
 <p align="left">
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tushar-me&theme=github" />
-	<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tushar-me&theme=github&utcOffset=8" />
 </p>
 
 ### GitHub Profile Summary Card
@@ -34,6 +33,11 @@
 <p align="center">
 	<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tushar-me&theme=github" />
 	<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tushar-me&theme=github" />
+</p>
+
+### Top Commits
+<p align="center">
+	<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tushar-me&theme=github&utcOffset=8" />
 </p>
 
 
