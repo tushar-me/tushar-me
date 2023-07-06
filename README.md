@@ -22,7 +22,7 @@
 
 ### GitHub Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tusar-me&theme=github"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tushar-me&theme=github"/>
 </p>
 
 ### Top Languages
