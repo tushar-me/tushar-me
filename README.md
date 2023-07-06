@@ -29,15 +29,15 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tushar-me&theme=github"/>
 </p>
 
+### Top Commits
+<p align="center">
+	<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tushar-me&theme=github&utcOffset=8" />
+</p>
+
 ### Top Languages
 <p align="center">
 	<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tushar-me&theme=github" />
 	<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tushar-me&theme=github" />
-</p>
-
-### Top Commits
-<p align="center">
-	<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tushar-me&theme=github&utcOffset=8" />
 </p>
 
 
