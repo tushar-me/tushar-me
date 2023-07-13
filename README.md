@@ -1,4 +1,4 @@
-[![MasterHead](https://scontent.fdac27-2.fna.fbcdn.net/v/t39.30808-6/358400563_288380853601439_8178766034949721275_n.png?stp=dst-jpg&_nc_cat=100&ccb=1-7&_nc_sid=ab6a21&_nc_ohc=Wzs0mOGg_rgAX9-tsMU&_nc_pt=1&_nc_ht=scontent.fdac27-2.fna&oh=00_AfBieGPza1o1VLuRyaVPKNM1HRKupe4aBuALmYMA1N0NHA&oe=64A9D2CF)](https://tusharimran.site/)
+
 <h1 align="center">Hi 👋, I'm Tushar Imran</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
