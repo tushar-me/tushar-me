@@ -40,6 +40,8 @@
 	<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tushar-me&theme=github" />
 </p>
 
+<div style="background-color: rgb(50, 50, 50);">
+	
 ```php
 public function storeProduct(ProductRequest $req)
 {
@@ -62,6 +64,8 @@ public function storeProduct(ProductRequest $req)
     return to_route('product.all');
 }
 ```
+</div>	
+
 code[class*="php-"], pre[class*="language-php"]
   border-radius: 6px
   text-shadow: 0 1px #14161800 !important
