@@ -41,25 +41,26 @@
 </p>
 
 
+<div style="background-color: black; color: white; padding: 10px;">
 ```php
-    public function storeProduct(ProductRequest $req)
-    {
+public function storeProduct(ProductRequest $req)
+{
 
-        $data = $req->validated();
-        $data['user_id'] = Auth::id();
-        $product = Product::create($data);
+    $data = $req->validated();
+    $data['user_id'] = Auth::id();
+    $product = Product::create($data);
 
 
-        $images = request()->images;
+    $images = request()->images;
 
-        $imageData = [];
-        foreach( $images as $image){
-            $imageData[] = [
-                'url' => '/storage/'.$image['file']->store('uploads', 'public'),
-                'product_id' => $product->id
-            ];
-        }
-        Image::insert($imageData);
-        return to_route('product.all');
+    $imageData = [];
+    foreach( $images as $image){
+        $imageData[] = [
+            'url' => '/storage/'.$image['file']->store('uploads', 'public'),
+            'product_id' => $product->id
+        ];
     }
-```
+    Image::insert($imageData);
+    return to_route('product.all');
+}
+
