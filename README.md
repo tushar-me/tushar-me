@@ -64,10 +64,11 @@ public function storeProduct(ProductRequest $req)
 }
 
 ```css
-```css
+
 pre[class*="language-php"] {
     background-color: black;
     color: white;
     padding: 10px;
 }
+```css
 
