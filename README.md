@@ -41,7 +41,6 @@
 </p>
 
 
-<div style="background-color: black; color: white; padding: 10px;">
 ```php
 public function storeProduct(ProductRequest $req)
 {
@@ -65,4 +64,4 @@ public function storeProduct(ProductRequest $req)
 }
 
 ```
-</div>
+
