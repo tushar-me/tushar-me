@@ -40,7 +40,6 @@
 	<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tushar-me&theme=github" />
 </p>
 
-
 ```php
 public function storeProduct(ProductRequest $req)
 {
@@ -62,13 +61,12 @@ public function storeProduct(ProductRequest $req)
     Image::insert($imageData);
     return to_route('product.all');
 }
-
-```css
-
-pre[class*="language-php"] {
-    background-color: black;
-    color: white;
-    padding: 10px;
-}
-```css
-
+```
+code[class*="php-"], pre[class*="language-php"]
+  border-radius: 6px
+  text-shadow: 0 1px #14161800 !important
+  background: #242424 !important
+  span.token.operator
+    background: none
+  span.token.keyword
+    color: #866cba
