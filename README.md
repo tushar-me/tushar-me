@@ -40,37 +40,3 @@
 	<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tushar-me&theme=github" />
 </p>
 
-<div style="background-color: rgb(0, 0, 0);">
-	
-```php
-public function storeProduct(ProductRequest $req)
-{
-
-    $data = $req->validated();
-    $data['user_id'] = Auth::id();
-    $product = Product::create($data);
-
-
-    $images = request()->images;
-
-    $imageData = [];
-    foreach( $images as $image){
-        $imageData[] = [
-            'url' => '/storage/'.$image['file']->store('uploads', 'public'),
-            'product_id' => $product->id
-        ];
-    }
-    Image::insert($imageData);
-    return to_route('product.all');
-}
-```
-</div>	
-
-code[class*="php-"], pre[class*="language-php"]
-  border-radius: 6px
-  text-shadow: 0 1px #14161800 !important
-  background: #242424 !important
-  span.token.operator
-    background: none
-  span.token.keyword
-    color: #866cba
