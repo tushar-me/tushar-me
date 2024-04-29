@@ -40,7 +40,7 @@
 	<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tushar-me&theme=github" />
 </p>
 
-<div style="background-color: rgb(50, 50, 50);">
+<div style="background-color: rgb(0, 0, 0);">
 	
 ```php
 public function storeProduct(ProductRequest $req)
