@@ -63,5 +63,11 @@ public function storeProduct(ProductRequest $req)
     return to_route('product.all');
 }
 
-```
+```css
+```css
+pre[class*="language-php"] {
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
 
