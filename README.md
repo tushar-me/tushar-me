@@ -64,3 +64,5 @@ public function storeProduct(ProductRequest $req)
     return to_route('product.all');
 }
 
+```
+</div>
