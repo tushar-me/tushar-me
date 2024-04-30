@@ -1,5 +1,7 @@
+
+<p><img align="center" src="https://cubettech.com/wp-content/uploads/2021/05/WEB-Full-Stack-Developer.jpg"  /></p>
 <h1 align="center">Hi 👋, I'm Tushar Imran</h1>
-<h3 align="center">A Full Stack Software Engineer</h3>
+<p align="center">A Full Stack Software Engineer</h3>
 <p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=tushar-me&](https://cubettech.com/wp-content/uploads/2021/05/WEB-Full-Stack-Developer.jpg)"  /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tushar-me" alt="tushar-me" /></a> </p>
