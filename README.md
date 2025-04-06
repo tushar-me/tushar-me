@@ -1,5 +1,5 @@
 
-<p><img align="center" src="https://cubettech.com/wp-content/uploads/2021/05/WEB-Full-Stack-Developer.jpg"  /></p>
+<p><img align="center" src="[https://cubettech.com/wp-content/uploads/2021/05/WEB-Full-Stack-Developer.jpg](https://blog.communicationcrafts.com/wp-content/uploads/sites/2/2023/02/Everything-worth-knowing-about-Full-Stack-Development_banner.png)"  /></p>
 <h1 align="center">Hi 👋, I'm Tushar Imran</h1>
 <p align="center">A Full Stack Software Engineer</h3>
 <p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=tushar-me&](https://cubettech.com/wp-content/uploads/2021/05/WEB-Full-Stack-Developer.jpg)"  /></p>
